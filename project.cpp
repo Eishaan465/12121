@@ -2,6 +2,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#include <cctype>
 using namespace std;
 
 // problem 1
